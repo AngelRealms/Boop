@@ -1,0 +1,7 @@
+#All Variables Start With :
+:a = 5
+:b = 7
+#Variables can be added together!
+:c = :a + :b
+#Printing Variables!
+print :c
