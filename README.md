@@ -22,4 +22,4 @@ Hello, Boop!
 # Thanks!
 Thanks for reading! Even if you didn't like it, it still means a lot to me that you took the time to read the entire thing down to here!
 If you have found bugs or have suggestions on what to do, put it in Issues.
-# Bye!
+# Have Fun!
